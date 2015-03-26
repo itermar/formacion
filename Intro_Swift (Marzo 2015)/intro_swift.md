@@ -44,22 +44,12 @@ ___
 ___
 
 # ¿Qué es Swift?
-![](/Users/imanolteran/Dropbox/intro_swift/suzuki-swift-sconcept-3.jpg)
 
-___
-
-# ¿Qué es Swift?
-![](/Users/imanolteran/Dropbox/intro_swift/1024px-SWIFT.svg.png)
-
-___
-
-![150%](Apple_Swift_Logo.png)
 
 ___
 
 # WWDC 14
 
-![](wwdc14.png)
 
 ___
 
@@ -100,22 +90,10 @@ ___
 ___
 
 ## ¿Qué podemos hacer con Swift?
-![](/Users/imanolteran/Dropbox/intro_swift/apple_mf886ll_a_27_imac_with_retina_1086734.jpg)
-![](/Users/imanolteran/Dropbox/intro_swift/iphone-6-mockup.jpg)
-![](/Users/imanolteran/Dropbox/intro_swift/Apple-Watch-presentado.jpg)
 
 ___
 
 ## Lo que está por venir
-
-![](/Users/imanolteran/Dropbox/intro_swift/android.jpg)
-![](/Users/imanolteran/Dropbox/intro_swift/Microsoft-Windows-Phone-Store.png)
-
-___
-
-## Lo que está por venir
-
-![](/Users/imanolteran/Dropbox/intro_swift/web.jpg)
 
 
 ___
@@ -137,7 +115,6 @@ ___
 ___
 
 ## ¿Qué es un Playground?
-![](/Users/imanolteran/Dropbox/intro_swift/homepage5-miracle-recreation-playgrounds.jpg)
 
 
 ___
